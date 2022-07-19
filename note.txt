@@ -1,0 +1,5 @@
+-dựng base
+- reset
++ https://cdnjs.com/libraries/normalize
++ link:https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css
+hoặc tương đối tải về.
